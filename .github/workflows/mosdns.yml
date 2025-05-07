@@ -1,0 +1,93 @@
+name: Update Rules
+
+on:
+  push:
+    paths:
+      - 'mosdns.txt'
+  schedule:
+    - cron: '0 0 * * *'  # 每天 UTC 午夜运行
+  workflow_dispatch:     # 支持手动触发
+
+jobs:
+  update-rules:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: pip install requests==2.28.1  # 指定版本以确保一致性
+
+      - name: Process rules
+        run: |
+          python - <<EOF
+          import os
+          import requests
+          from collections import OrderedDict, defaultdict
+          from pathlib import Path
+
+          # 定义目录
+          mosdns_dir = Path("mosdns")
+          mosdns_dir.mkdir(exist_ok=True)
+
+          # 读取 mosdns.txt 并按名称分组
+          rules_by_name = defaultdict(list)
+          try:
+              with open('mosdns.txt', 'r') as f:
+                  for line in f:
+                      if line.strip():  # 跳过空行
+                          name, url = line.strip().split(' ', 1)
+                          rules_by_name[name].append(url)
+          except FileNotFoundError:
+              print("Error: mosdns.txt not found")
+              exit(1)
+
+          # 处理每个分组的规则
+          for name, urls in rules_by_name.items():
+              output_file = mosdns_dir / f"{name}.txt"
+              unique_rules = OrderedDict()  # 保留顺序，后出现的规则覆盖前面的
+
+              for i, url in enumerate(urls):
+                  try:
+                      response = requests.get(url, timeout=10)
+                      response.raise_for_status()
+                      content = response.text
+                  except requests.RequestException as e:
+                      print(f"Failed to fetch {url}: {e}")
+                      content = ""
+
+                  # 处理规则内容
+                  for line in content.splitlines():
+                      stripped_line = line.strip()
+                      if not stripped_line.startswith('#'):  # 忽略注释
+                          # 如果包含 IP-CIDR 或 IP-CIDR6，则跳过该行
+                          if 'IP-CIDR' in stripped_line or 'IP-CIDR6' in stripped_line:
+                              continue
+                          # 否则进行格式转换
+                          modified_line = stripped_line.replace('DOMAIN-SUFFIX,', 'domain:') \
+                                                     .replace('DOMAIN,', 'full:') \
+                                                     .replace('DOMAIN-KEYWORD,', 'keyword:') \
+                                                     .replace('DOMAIN-REGEX,', 'regexp:') \
+                                                     .strip()
+                          if modified_line:
+                              unique_rules[modified_line] = None  # 去重，保留最后出现的
+
+              # 写入结果
+              with open(output_file, 'w') as outfile:
+                  for rule_line in unique_rules.keys():
+                      outfile.write(rule_line + '\n')
+              print(f"Updated {output_file} with {len(unique_rules)} rules")
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add mosdns/*.txt
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          else
+            git commit -m "Update rules from mosdns.txt - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+            git push
+          fi
