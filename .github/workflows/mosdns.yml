@@ -15,6 +15,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 添加 SSH 密钥配置步骤
+      - name: Setup SSH key
+        uses: webfactory/ssh-agent@v0.8.0
+        with:
+          ssh-private-key: ${{ secrets.DEPLOY_KEY }}
+
+      # 添加设置远程仓库 URL 的步骤
+      - name: Add remote origin
+        run: |
+          git remote set-url origin git@github.com:nascloud/mosdns_rules.git
+
       - name: Install dependencies
         run: pip install requests==2.28.1  # 指定版本以确保一致性
 
