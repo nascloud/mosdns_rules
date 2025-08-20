@@ -118757,6 +118757,7 @@ unicom
 xn--1qqw23a
 xn--3bst00m
 xn--3ds443g
+xn--55qw42g
 xn--5tzm5g
 xn--6frz82g
 xn--6qq986b3xl
@@ -119739,7 +119740,6 @@ xiami.fm
 xiangrikuisite.com
 xiaoluyouxuan.com
 xiaoluzhidian.com
-xiaomi.eu
 xiaomiflash.com
 xiaomiinc.com
 xiaomiprint.com
