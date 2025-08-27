@@ -119226,7 +119226,6 @@ cncqcloud.com
 cnepub.com
 codm.com
 coindog.com
-copy-manga.com
 csbew.com
 ctripgslb.net
 dadajiasu.com
@@ -119237,6 +119236,7 @@ dcdkjx.com
 dcg.microsoft.com
 deepin.io
 deepinos.org
+dell-brand.com
 dewu-inc.com
 dewu-inner.com
 dewu-inner.net
@@ -119344,6 +119344,7 @@ frp-say.com
 frp-sea.com
 frp-shy.com
 frp-six.com
+functiongraph.run
 fuwai.com
 fyeds.com
 fymall0.com
@@ -119499,8 +119500,6 @@ mahjongai.net
 mahjongcup.com
 mahjongcup.net
 mail4399.com
-mangacopy.com
-mangafunb.fun
 maoyuncloud.com
 mechina.org
 media.paperclipclub.net
@@ -119547,6 +119546,7 @@ pengyoudewu.com
 phpwind.com
 phpwind.net
 piaoliang.com
+platform.dell.com
 poizon-inner.com
 poizon-inner.net
 poizon-support.com
@@ -119578,6 +119578,7 @@ realme.com
 rmbgame.net
 rmwxgame.com
 ro.com
+robomaster.com
 ruan8.com
 ruby-china.org
 rubyconfchina.org
@@ -119771,6 +119772,7 @@ zhuanyewanjia.com
 zijiedj.com
 zimuzu.io
 zoom3g.com
+full:afcs.dell.com
 full:ai.zhaomi.cn
 full:alibaba.cdn.steampipe.steamcontent.com
 full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net
@@ -119799,6 +119801,7 @@ full:cdn.marketplaceimages.windowsphone.com
 full:certs-lb.apple.com.akadns.net
 full:cl2-cdn.origin-apple.com.akadns.net
 full:client-api.itunes.apple.com
+full:clientperipherals.dell.com
 full:cma.itunes.apple.com
 full:cn.download.nvidia.com
 full:cn.windowssearch.com
@@ -119808,17 +119811,30 @@ full:crl.globalsign.net
 full:crls.pki.goog
 full:ctldl.windowsupdate.com
 full:cueme-api.quark.cn
+full:customization-cdn.dell.com
+full:dds.dell.com
 full:devblogs.microsoft.com
 full:developer.microsoft.com
 full:discussionschinese.apple.com
+full:dl.dell.com
 full:docs.microsoft.com
 full:download.microsoft.com
 full:download.visualstudio.microsoft.com
 full:downloaddispatch.itunes.apple.com
+full:ea2cn-dev-outlet.dell.com
+full:ea2cn-prod-outlet.dell.com
+full:ea2cn-staging-outlet.dell.com
 full:emoi-cncdn.bing.com
 full:f.c2r.ts.cdn.office.net
+full:fcs.dell.com
 full:fides-pol.apple.com
 full:fs.microsoft.com
+full:fta.dell.com
+full:ftaapj.dell.com
+full:ftaemea.dell.com
+full:ftasitapj.dell.com
+full:gbxgateway-dev.dell.com
+full:gbxgateway.dell.com
 full:geetest.datasink.sensorsdata.cn
 full:gog-cdn-fastly.gog.com
 full:gog-cdn.akamaized.net
@@ -119830,6 +119846,7 @@ full:gspe85-cn-ssl.ls.apple.com
 full:hellofontpreview.oss-cn-beijing.aliyuncs.com
 full:hellowebfonts.oss-cn-beijing.aliyuncs.com
 full:hospital.pku.edu.cn
+full:i.dell.com
 full:i.pki.goog
 full:images-cn-8.ssl-images-amazon.com
 full:images-cn.ssl-images-amazon.com
@@ -119854,6 +119871,7 @@ full:msgr.dlservice.microsoft.com
 full:msgruser.dlservice.microsoft.com
 full:myapp.itunes.apple.com
 full:myvs.download.prss.microsoft.com
+full:nexus.dell.com
 full:np-edge.itunes.apple.com
 full:ntp.aliyun.com
 full:ntp.tencent.com
@@ -119874,6 +119892,7 @@ full:oemsoc.download.prss.microsoft.com
 full:officecdn.microsoft.com
 full:opencourse.pku.edu.cn
 full:osxapps.itunes.apple.com
+full:p.cdn.persaas.dell.com
 full:p1-juejin.byteimg.com
 full:p2-juejin.byteimg.com
 full:p3-juejin.byteimg.com
@@ -119898,14 +119917,19 @@ full:s2.mzstatic.com
 full:s3.mzstatic.com
 full:s4.mzstatic.com
 full:s5.mzstatic.com
+full:scene7-cdn.dell.com
 full:sdx.microsoft.com
 full:se-edge.itunes.apple.com
 full:se2.itunes.apple.com
 full:search.itunes.apple.com
 full:sf-api-token-service.itunes.apple.com
 full:shell.cdn.office.net
+full:si.cdn.dell.com
 full:silverlight.dlservice.microsoft.com
 full:slupdate.dlservice.microsoft.com
+full:sm.dell.com
+full:snp.cdn.dell.com
+full:snpi.dell.com
 full:software.download.prss.microsoft.com
 full:sp.itunes.apple.com
 full:ss.bjmu.edu.cn
@@ -119915,6 +119939,7 @@ full:storeedgefd.dsx.mp.microsoft.com
 full:streamingaudio.itunes.apple.com
 full:study.163.com
 full:su.itunes.apple.com
+full:supportassist.dell.com
 full:surface.downloads.prss.microsoft.com
 full:sync.itunes.apple.com
 full:tesla-cdn.thron.cn
@@ -119929,7 +119954,9 @@ full:vz.download.prss.microsoft.com
 full:wl.dlservice.microsoft.com
 full:wscont1.apps.microsoft.com
 full:wscont2.apps.microsoft.com
+full:www-csb.dell.com
 full:www.amd.com
+full:www.dell.com
 full:www.entrust.cn
 full:www.libvideo.com
 full:www.microsoft.com
