@@ -116648,6 +116648,7 @@ alphassl.com
 analog.com
 anruan.com
 apaas-zone-test.com
+apdcdn.net
 aptdn.net
 azchcdnd.com
 azchcdne.com
@@ -116669,6 +116670,7 @@ bce-cdn.com
 bce-cdn.net
 bcfmglobal.com
 bdactivity.com
+bdmyandex.com
 bdycdn.net
 beatsbydre.com
 beihaidc.com
@@ -116695,6 +116697,7 @@ bytegqpo.net
 byteintl.net
 bytelb.com
 byteq5k.com
+bytevcloudapi.com
 bytexopen.com
 cabbagebox.com
 caiyun.com
@@ -116716,6 +116719,7 @@ chinamobileltd.com
 chinapp.net
 chinatelecom-h.com
 chinazns.com
+chongbuluo.com
 chuansong.me
 chuansongme.com
 chuyu.me
@@ -116737,6 +116741,7 @@ cncqcloud.com
 cnepub.com
 codm.com
 coindog.com
+coze.site
 csbew.com
 ctripgslb.net
 ctripteam.com
@@ -116759,6 +116764,7 @@ dewuhui.com
 dewuyouhui.com
 diopic.net
 dji.com
+dji.ink
 dji.net
 djicdn.com
 djiits.com
@@ -116916,6 +116922,7 @@ hongsanban.com
 houdao.com
 houyuantuan.com
 hr-welink.com
+hsqh.net
 huaweicloudlive.com
 huaweiief.com
 huaweimarketplace.com
@@ -116927,6 +116934,8 @@ huoshanparty.com
 huoshante8.com
 hwcloudvis.com
 hxfy888.com
+ibdxiguaimg.com
+ibdxiguastatic.com
 ibobscs.com
 icaidao.com
 icbcina.com
@@ -117015,7 +117024,10 @@ mahjongai.net
 mahjongcup.com
 mahjongcup.net
 mail4399.com
+maoxiangai.com
 maoyuncloud.com
+mcbaas.work
+mcdemo.show
 mechina.org
 media.paperclipclub.net
 meika360.com
@@ -117035,6 +117047,7 @@ my-qcloud.com
 mychinaunicom.com
 myelasticsearch.com
 myhwcloudlive.com
+myparallelstory.com
 myshow360.net
 neihancommunity.com
 nextworkshop.net
@@ -117061,6 +117074,7 @@ pengyoudewu.com
 phpwind.com
 phpwind.net
 piaoliang.com
+pixeldance.com
 platform.dell.com
 poizon-inner.com
 poizon-inner.net
@@ -117148,6 +117162,7 @@ tcloudbi.com
 tclouddrive.com
 tcloudedu.com
 tcloudhw.net
+tcwqqdy.guru
 tdnsv1.net
 tdnsv10.com
 tdnsv10.net
@@ -117198,6 +117213,7 @@ tools.team
 toplife.com
 touqikan.com
 toutiaojisu.com
+trae.guru
 tripcdn.com
 tsparkling.com
 tuicool.com
