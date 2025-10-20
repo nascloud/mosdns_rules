@@ -117416,8 +117416,6 @@ full:maps.apple.com
 full:menu-static.gog-statics.com
 full:misc-assets.itunes.apple.com
 full:moocs.unipus.cn
-full:msgr.dlservice.microsoft.com
-full:msgruser.dlservice.microsoft.com
 full:myapp.itunes.apple.com
 full:myvs.download.prss.microsoft.com
 full:nexus.dell.com
@@ -117458,7 +117456,6 @@ full:pd.itunes.apple.com
 full:play.itunes.apple.com
 full:play.music.apple.com
 full:productcard.gog-statics.com
-full:qh.dlservice.microsoft.com
 full:res-1.cdn.office.net
 full:res.cdn.office.net
 full:s1.mzstatic.com
@@ -117474,8 +117471,6 @@ full:search.itunes.apple.com
 full:sf-api-token-service.itunes.apple.com
 full:shell.cdn.office.net
 full:si.cdn.dell.com
-full:silverlight.dlservice.microsoft.com
-full:slupdate.dlservice.microsoft.com
 full:sm.dell.com
 full:snp.cdn.dell.com
 full:snpi.dell.com
@@ -117500,7 +117495,6 @@ full:uplaypc-s-ubisoft.cdn.ubi.com
 full:upp.itunes.apple.com
 full:vscode.download.prss.microsoft.com
 full:vz.download.prss.microsoft.com
-full:wl.dlservice.microsoft.com
 full:wscont1.apps.microsoft.com
 full:wscont2.apps.microsoft.com
 full:www-csb.dell.com
@@ -117513,7 +117507,6 @@ full:www.recaptcha.net
 full:www.support.apple.com
 full:www.ztedevices.com
 full:www4-static.gog-statics.com
-full:xb.dlservice.microsoft.com
 full:xz.pphimalayanrt.com
 regexp:.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 regexp:.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
