@@ -116626,6 +116626,7 @@ full:xn--flw351e.com
 714.com
 75team.com
 900.la
+900cha.com
 917.com
 91yunxiao.com
 95095.com
@@ -116960,8 +116961,10 @@ inanguapi.com
 infineon.com
 infoq.com
 ip-cdn.com
+ipshu.com
 isd.com
 ispqcloud.com
+istoreos.com
 it610.com
 itmop.com
 ivweb.io
@@ -116991,6 +116994,7 @@ joybuy.com
 joybuy.es
 jpmorganchina.com
 jtamac.com
+jxpp.com
 kameng98.com
 kanbox.com
 keboyunxiao.com
@@ -117053,6 +117057,7 @@ morefreegame.com
 morganstanleyhuaxin.com
 muomou.com
 muzhiwan.com
+mwcdns.com
 my-qcloud.com
 mychinaunicom.com
 myelasticsearch.com
@@ -117060,6 +117065,7 @@ myhwcloudlive.com
 myparallelstory.com
 myshow360.net
 neihancommunity.com
+netzz.net
 nextworkshop.net
 nic.xin
 o365cn.com
@@ -117281,8 +117287,10 @@ wooyun.org
 woyaogexing.com
 woyoo.com
 wps.com
+wsglb.com
 wsoso.com
 xdqtech.com
+xdtool.com
 xfdown.com
 xiami.fm
 xiangrikuisite.com
