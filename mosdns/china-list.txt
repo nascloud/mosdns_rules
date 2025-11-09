@@ -116722,7 +116722,6 @@ imcome.net
 imcoming.com
 in.th
 inanguapi.com
-infineon.com
 infoq.com
 ip-cdn.com
 ipshu.com
@@ -116979,7 +116978,6 @@ texasholdemcup.com
 texasholdemcup.net
 tgprocs.net
 thinkpad.com
-ti.com
 tiapi.net
 tidaas.com
 tidb.ai
