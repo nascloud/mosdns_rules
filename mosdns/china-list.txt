@@ -116837,6 +116837,7 @@ gzwanju.com
 hackinn.com
 hacpai.com
 haote.com
+hapjs.org
 henha.com
 hero.com
 heroesports.com
@@ -117273,7 +117274,6 @@ full:apptrailers.itunes.apple.com
 full:auth.music.apple.com
 full:b.c2r.ts.cdn.office.net
 full:bag.itunes.apple.com
-full:bbs.ztedevices.com
 full:bg.v4.a.dl.ws.microsoft.com
 full:bg4.v4.a.dl.ws.microsoft.com
 full:bj1.api.bing.com
@@ -117534,7 +117534,6 @@ full:www.libvideo.com
 full:www.microsoft.com
 full:www.recaptcha.net
 full:www.support.apple.com
-full:www.ztedevices.com
 full:www4-static.gog-statics.com
 full:xz.pphimalayanrt.com
 regexp:.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
