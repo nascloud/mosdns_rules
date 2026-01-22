@@ -113871,6 +113871,7 @@ baidu-cdn.net
 baidubcr.com
 baiduyuncdn.com
 baiduyuncdn.net
+baimiao.tech
 bambulab.com
 bamenzhushou.com
 battlecare.net
@@ -114236,6 +114237,7 @@ shareintelli.com
 sharejs.com
 shelterdome.net
 shhxzq.com
+shinescan.tech
 shopeesz.com
 shoutanjjj.com
 simei8.com
