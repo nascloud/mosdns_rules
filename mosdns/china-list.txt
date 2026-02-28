@@ -117807,6 +117807,7 @@ full:alibaba.cdn.steampipe.steamcontent.com
 full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 full:amp-api-edge-lb.itunes-apple.com.akadns.net
 full:amp-api-edge.apps.apple.com
+full:amp-api-edge.music.apple.com
 full:amp-api-search-edge.apps.apple.com
 full:amp-api.apps.apple.com
 full:amp-api.music.apple.com
@@ -117945,6 +117946,8 @@ full:mdr.ksn.kaspersky-labs.com
 full:menu-static.gog-statics.com
 full:misc-assets.itunes.apple.com
 full:moocs.unipus.cn
+full:musicstatus.music.apple.com
+full:mvod.itunes.apple.com
 full:myapp.itunes.apple.com
 full:myvs.download.prss.microsoft.com
 full:nexus.dell.com
@@ -118046,6 +118049,7 @@ full:snp.cdn.dell.com
 full:snpi.dell.com
 full:software.download.prss.microsoft.com
 full:sp.itunes.apple.com
+full:speedysub.music.apple.com
 full:ss.bjmu.edu.cn
 full:static-login.gog-statics.com
 full:statics.teams.cdn.office.net
