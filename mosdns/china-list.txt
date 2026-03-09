@@ -118280,6 +118280,7 @@ full:xn--flw351e.com
 50bang.org
 51gaifang.com
 51yes.com
+52ppt.com
 52z.com
 55.com
 5566ua.com
@@ -118322,6 +118323,7 @@ azchcdnf.com
 azchcdni.com
 azchcdnk.com
 b3log.org
+badou.com
 baidu-cdn.com
 baidu-cdn.net
 baidubcr.com
@@ -118523,6 +118525,7 @@ gxb.io
 gzwanju.com
 hackinn.com
 hacpai.com
+haohaodoc.com
 haohaowan.net
 haote.com
 hapjs.org
@@ -118593,6 +118596,7 @@ landian.xyz
 landiannews.com
 lanzous.com
 larsonlimited.com
+lazyer.net
 lbtp.com
 leanote.com
 lecloudapi.com
@@ -118738,6 +118742,7 @@ wanyx.com
 weilaicaijing.com
 weixing.com
 welltrend-edu.com
+wenkeju.com
 whlovehome.com
 win007.com
 windows10zj.com
