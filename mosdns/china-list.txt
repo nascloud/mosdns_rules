@@ -118313,6 +118313,7 @@ akamai.com
 alittle-tea.com
 alphassl.com
 analog.com
+anhuiyun.com
 anruan.com
 apimkt.net
 aptdn.net
@@ -118836,6 +118837,7 @@ full:crl-lb.apple.com.akadns.net
 full:crl.globalsign.net
 full:crl.kaspersky.com
 full:crls.pki.goog
+full:ctdsb.clouddiffuse.xyz
 full:ctldl.windowsupdate.com
 full:cueme-api.quark.cn
 full:customization-cdn.dell.com
