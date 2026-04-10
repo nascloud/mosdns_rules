@@ -118401,6 +118401,7 @@ alphassl.com
 analog.com
 anhuiyun.com
 anruan.com
+anytocopy.com
 apimkt.net
 aptdn.net
 autohome.tel
@@ -118481,6 +118482,7 @@ dadajiasu.com
 dajieimg.com
 dandanplay.com
 danji6.com
+daocloud.vip
 dcdkjx.com
 dcg.microsoft.com
 ddcorp.net
@@ -118588,6 +118590,7 @@ fzaqjy.com
 game234.com
 gameitop.com
 gameloop.com
+gamepp.com
 gamewower.com
 ggoplay.com
 ggowan.com
@@ -118620,6 +118623,7 @@ hero.com
 heroesports.com
 herogame.com
 herostart.com
+hezuvip.com
 hik-express.com
 hikiot.com
 hnyuyuhui.com
@@ -118734,6 +118738,7 @@ oncdp.com
 onlinesjtu.com
 openlearning.com
 openvela.com
+osbdf.com
 ourdvsss.com
 ourl.co
 piaoliang.com
@@ -118760,6 +118765,7 @@ ruseer.com
 rwkv.com
 rzrc114.com
 schoopia.com
+scratch5.com
 sectigochina.com.cdn.cloudflare.net
 seeed.cc
 sf-saas.com
@@ -118781,6 +118787,7 @@ sinopec-usa.com
 sjwyx.com
 skypixel.com
 somode.com
+soulteary.com
 st.dl.pinyuncloud.com
 starbaby.com
 steam302.xyz
@@ -118796,6 +118803,7 @@ thinkpad.com
 tidb.ai
 tidbcloud.com
 tikv.org
+timbrd.com
 tlgslb.com
 tongxuepie.com
 tools.team
@@ -118829,6 +118837,7 @@ weixing.com
 welltrend-edu.com
 wenkeju.com
 whlovehome.com
+wildfirechat.net
 win007.com
 windows10zj.com
 winos.me
