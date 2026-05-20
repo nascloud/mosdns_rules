@@ -3851,6 +3851,7 @@
 333-555.com
 333.com
 333.xn--czrs0t
+3331.com
 33315.com
 333232.xyz
 333333.com
@@ -16029,6 +16030,7 @@ bhshtksp.com
 bhshunhui.com
 bhshyy.com
 bhsr.com
+bhsun.com
 bhszyyy.com
 bhtv.cc
 bhuitong.com
@@ -49044,7 +49046,6 @@ hujibbs.com
 hujingnb.com
 huke88.com
 hukeck.com
-hukelc.com
 hukenb.com
 hukexyy.com
 hukou021.com
@@ -50252,6 +50253,7 @@ hzzkj.net
 hzzp.com
 hzzpko3186.vip
 hzzqzc.com
+hzzred.com
 hzzrmc.com
 hzzsfs.com
 hzzsxh.com
@@ -54427,6 +54429,7 @@ jidouauto.com
 jidubook.com
 jidujiao.com
 jidujiasu.com
+jie.ge
 jieanjiaotong.com
 jiebai.com
 jiebanchuyou.com
@@ -54754,6 +54757,7 @@ jingdongyouxuan.com
 jingdudai.com
 jingdukaoyan.com
 jingdw.com
+jingeshou.com
 jingge.com
 jinggeng.net
 jinggon.com
@@ -55435,6 +55439,7 @@ jj00.com
 jj0833.com
 jj20.com
 jj59.com
+jj5agame.com
 jj831.com
 jj99.icu
 jjbang.com
@@ -55902,7 +55907,6 @@ jnydgm.com
 jnyng.com
 jnyyjt.com
 jnzhuoxin.com
-jnzjzx.net
 jnzl.com
 jnzongchi.com
 jnzx.cc
@@ -67287,6 +67291,7 @@ modelarts-maas.com
 modelevel.com
 modelltd.com
 modelones.com
+modelscope.ai
 modelscope.net
 modelwhale.com
 modeng178.com
@@ -77441,7 +77446,6 @@ qygbet427.vip
 qygjyey.com
 qyglzz.com
 qygvip128.com
-qygvip40.com
 qyhgsb.com
 qyhl.vip
 qyhr.org
@@ -78415,7 +78419,6 @@ rightknights.com
 rightpaddle.com
 rigol.com
 rigouwang.com
-riitao.com
 riji001.com
 riji100zi.com
 rijigu.com
@@ -80466,7 +80469,6 @@ sdglobaltrade.com
 sdglql.com
 sdgmjiaoyun.com
 sdgren.com
-sdgsdggg.xyz
 sdgsgcjsjt.com
 sdgsjc.com
 sdgslb.com
@@ -80543,6 +80545,7 @@ sdj88.com
 sdjcf.com
 sdjcsh.com
 sdjcw.com
+sdjcxxgs.com
 sdjiance.com
 sdjiankan.com
 sdjianmei.com
@@ -95491,6 +95494,7 @@ wcjbb.net
 wcjm.org
 wclbox.com
 wcloud.com
+wcloudcdn.com
 wcode.net
 wcp.hk
 wcqjyw.com
@@ -97250,7 +97254,6 @@ wisdri.com
 wise-iot.com
 wise99.com
 wiseasy.com
-wisebond.net
 wisecity.net
 wisecotech.com
 wisedoo.com
@@ -98298,6 +98301,7 @@ wujogroup.com
 wujue.com
 wukaikai.tech
 wukao.com
+wukazhifupos.com
 wukong.com
 wukong.la
 wukongbjb.com
@@ -109738,6 +109742,7 @@ zhenyuansoft.com
 zhenyunpan.com
 zhenzhuchanfu.com
 zheshenet.com
+zheshouka.com
 zhetao.com
 zhetian.org
 zhetouniu.com
@@ -113512,6 +113517,7 @@ full:www.destinationurl.com
 full:www.gstatic.com
 full:www.pxcc.com
 05sun.com
+123278.com
 123juzi.com
 123juzi.net
 1nongjing.com
@@ -113554,6 +113560,7 @@ alittle-tea.com
 alphassl.com
 analog.com
 anruan.com
+antafu.com
 anytocopy.com
 api-building.fun
 apimkt.net
@@ -113855,6 +113862,7 @@ rubyconfchina.org
 ruseer.com
 rwkv.com
 rzrc114.com
+safewk.com
 scratch5.com
 seclab.online
 sectigochina.com.cdn.cloudflare.net
@@ -114012,9 +114020,7 @@ full:clientperipherals.dell.com
 full:cma.itunes.apple.com
 full:cn.download.nvidia.com
 full:cn.windowssearch.com
-full:cnappinstall.googleadapis.com
 full:communities.apple.com
-full:content.googleadapis.com
 full:crl-lb.apple.com.akadns.net
 full:crl.globalsign.net
 full:crl.kaspersky.com
@@ -114055,14 +114061,12 @@ full:dnl-18.geo.kaspersky.com
 full:dnl-19.geo.kaspersky.com
 full:docs.microsoft.com
 full:download.microsoft.com
-full:download.qatp1.net
 full:download.visualstudio.microsoft.com
 full:downloaddispatch.itunes.apple.com
 full:ea2cn-dev-outlet.dell.com
 full:ea2cn-prod-outlet.dell.com
 full:ea2cn-staging-outlet.dell.com
 full:edge.geo.kaspersky.com
-full:emmapplecodevice.googleapis.com
 full:emoi-cncdn.bing.com
 full:end-api.shallow.ink
 full:end.shallow.ink
@@ -114077,7 +114081,6 @@ full:ftasitapj.dell.com
 full:gbxgateway-dev.dell.com
 full:gbxgateway.dell.com
 full:geetest.datasink.sensorsdata.cn
-full:go.corp.google.com
 full:gog-cdn-fastly.gog.com
 full:gog-cdn.akamaized.net
 full:gog.qtlglb.com
@@ -114128,17 +114131,12 @@ full:ksn-url-geo.kaspersky-labs.com
 full:ksn-url.geoksn.kaspersky.com
 full:ksn-verdict-geo.kaspersky-labs.com
 full:ksn-verdict.geoksn.kaspersky.com
-full:l2-uberproxy.corp.google.com
 full:learn.microsoft.com
-full:logger-dev.corp.google.com
-full:logger.corp.google.com
-full:login.corp.google.com
 full:lv.queniujq.cn
 full:maps.apple.com
 full:mdr.ksn.kaspersky-labs.com
 full:menu-static.gog-statics.com
 full:misc-assets.itunes.apple.com
-full:monitoring.qpdp1.net
 full:moocs.unipus.cn
 full:musicstatus.music.apple.com
 full:mvod.itunes.apple.com
@@ -114205,13 +114203,6 @@ full:pd.itunes.apple.com
 full:play.itunes.apple.com
 full:play.music.apple.com
 full:productcard.gog-statics.com
-full:proxyconfig.corp.google.com
-full:qagpublic.qatp1.net
-full:qgadmin.qcpp1.net
-full:qualysapi.qatp1.net
-full:qualysguard.qpdp1.net
-full:r.cert.corp.google.com
-full:rapture-prod.corp.google.com
 full:refresh-bkg.activation-v2.kaspersky.com
 full:res-1.cdn.office.net
 full:res.cdn.office.net
@@ -114241,7 +114232,6 @@ full:s2.mzstatic.com
 full:s3.mzstatic.com
 full:s4.mzstatic.com
 full:s5.mzstatic.com
-full:scanservice1.qcpp1.net
 full:scene7-cdn.dell.com
 full:sdx.microsoft.com
 full:se-edge.itunes.apple.com
@@ -114257,33 +114247,21 @@ full:software.download.prss.microsoft.com
 full:sp.itunes.apple.com
 full:speedysub.music.apple.com
 full:ss.bjmu.edu.cn
-full:sslredirect.corp.google.com
 full:static-login.gog-statics.com
 full:statics.teams.cdn.office.net
 full:storeedgefd.dsx.mp.microsoft.com
-full:streaming-uberproxy-rotation.corp.google.com
-full:streaming-uberproxy.corp.google.com
 full:streamingaudio.itunes.apple.com
 full:study.163.com
 full:su.itunes.apple.com
-full:sup-ssh-relay.corp.google.com
-full:sup-ssh-relay2.corp.google.com
-full:sup.corp.google.com
-full:sup.l.google.com
 full:supportassist.dell.com
 full:surface.downloads.prss.microsoft.com
 full:sync.itunes.apple.com
 full:tesla-cdn.thron.cn
-full:test.gbugs-qa.chromium.org
 full:tf-feedback.itunes.apple.com
 full:time.amazonaws.cn
 full:time.izatcloud.net
 full:time.xtracloud.net
-full:tools.l.google.com
 full:tp.louisvuitton.com
-full:uberproxy-debug4.corp.google.com
-full:uberproxy.corp.google.com
-full:uberproxy6.corp.google.com
 full:universal-activity-service.itunes.apple.com
 full:uplaypc-s-ubisoft.cdn.ubi.com
 full:upp.itunes.apple.com
@@ -114299,7 +114277,6 @@ full:www.microsoft.com
 full:www.recaptcha.net
 full:www.support.apple.com
 full:www4-static.gog-statics.com
-full:xn--flw351e.com
 full:xtratime.qcomgeo2.com
 full:xz.pphimalayanrt.com
 regexp:.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
