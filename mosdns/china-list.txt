@@ -113388,8 +113388,6 @@ full:hellowebfonts.oss-cn-beijing.aliyuncs.com
 full:hospital.pku.edu.cn
 full:i.dell.com
 full:i.pki.goog
-full:icloud-cdn.icloud.com.akadns.net
-full:icloud.cdn-apple.com
 full:images-cn-8.ssl-images-amazon.com
 full:images-cn.ssl-images-amazon.com
 full:inappcheck-cn.itunes-apple.com.akadns.net
@@ -113454,8 +113452,6 @@ full:ntp5.tencent.com
 full:ntp6.aliyun.com
 full:ntp7.aliyun.com
 full:o.pki.goog
-full:ocsp-lb.apple.com.akadns.net
-full:ocsp2-lb.apple.com.akadns.net
 full:oemsoc.download.prss.microsoft.com
 full:officecdn.microsoft.com
 full:opencourse.pku.edu.cn
@@ -113492,7 +113488,6 @@ full:p6-novel.byteimg.com
 full:p7-juejin.byteimg.com
 full:p8-juejin.byteimg.com
 full:p9-juejin.byteimg.com
-full:pancake.cdn-apple.com.akadns.net
 full:pd-nk.itunes.apple.com
 full:pd.itunes.apple.com
 full:play.itunes.apple.com
@@ -113501,7 +113496,6 @@ full:productcard.gog-statics.com
 full:refresh-bkg.activation-v2.kaspersky.com
 full:res-1.cdn.office.net
 full:res.cdn.office.net
-full:reserve-prime.apple.com
 full:s00.upd.kaspersky.com
 full:s01.upd.kaspersky.com
 full:s02.upd.kaspersky.com
