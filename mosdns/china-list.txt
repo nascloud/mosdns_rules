@@ -112816,6 +112816,7 @@ full:www.pxcc.com
 123juzi.net
 1nongjing.com
 2265.com
+265.com
 315che.com
 33lc.com
 360aiyi.com
@@ -113593,6 +113594,7 @@ full:www.amd.com
 full:www.dell.com
 full:www.entrust.cn
 full:www.microsoft.com
+full:www.recaptcha-cn.net
 full:www.recaptcha.net
 full:www.support.apple.com
 full:www4-static.gog-statics.com
