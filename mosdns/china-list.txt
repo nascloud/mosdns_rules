@@ -112694,6 +112694,7 @@ zhiexa.com
 zhipucn.com
 zhuanyewanjia.com
 zysn.net
+full:account-cn.alibabacloud.com
 full:activate.activation-v2.kaspersky.com
 full:activation-v2.geo.kaspersky.com
 full:activation-v2.kaspersky.com
@@ -112710,6 +112711,7 @@ full:amp-api.music.apple.com
 full:aod-ssl.itunes.apple.com
 full:aod.itunes.apple.com
 full:api-edge.apps.apple.com
+full:api.alibabacloud.com
 full:apptrailers.itunes.apple.com
 full:auth.music.apple.com
 full:azuremigrate.download.prss.microsoft.com
@@ -112729,6 +112731,7 @@ full:cl2-cdn.origin-apple.com.akadns.net
 full:client-api.itunes.apple.com
 full:clientperipherals.dell.com
 full:cma.itunes.apple.com
+full:cn.alibabacloud.com
 full:cn.download.nvidia.com
 full:cn.windowssearch.com
 full:collaborate.download.prss.microsoft.com
@@ -112962,6 +112965,7 @@ full:sp.itunes.apple.com
 full:speedysub.music.apple.com
 full:ss.bjmu.edu.cn
 full:statics.teams.cdn.office.net
+full:status.alibabacloud.com
 full:storecorefulfillment.download.prss.microsoft.com
 full:storeedge.microsoft.com
 full:storeedgefd.dsx.mp.microsoft.com
