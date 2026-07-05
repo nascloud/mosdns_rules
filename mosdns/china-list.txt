@@ -111712,13 +111712,18 @@ zzzzaaaa.com
 zzzzzz.me
 alibaba
 alipay
+anquan
 baidu
 citic
 icbc
+shouji
+sina
 sohu
 taobao
 tmall
 unicom
+weibo
+xihuan
 xn--1qqw23a
 xn--3bst00m
 xn--3ds443g
@@ -111728,6 +111733,7 @@ xn--6frz82g
 xn--6qq986b3xl
 xn--8y0a063a
 xn--9et52u
+xn--9krt00a
 xn--czr694b
 xn--czrs0t
 xn--czru2d
@@ -111748,6 +111754,7 @@ xn--vhquv
 xn--vuq861b
 xn--xhq521b
 xn--zfr164b
+yun
 full:a1.mzstatic.com
 full:a2.mzstatic.com
 full:a3.mzstatic.com
@@ -112658,9 +112665,11 @@ full:edge.geo.kaspersky.com
 full:emoi-cncdn.bing.com
 full:end-api.shallow.ink
 full:end.shallow.ink
+full:entitlements-edge.itunes.apple.com
 full:f.c2r.ts.cdn.office.net
 full:fcs.dell.com
 full:fides-pol.apple.com
+full:fpinit.itunes.apple.com
 full:fta.dell.com
 full:ftaapj.dell.com
 full:ftaemea.dell.com
