@@ -112566,7 +112566,6 @@ full:supportassist.dell.com
 full:surface.download.prss.microsoft.com
 full:surface.downloads.prss.microsoft.com
 full:sync.itunes.apple.com
-full:tesla-cdn.thron.cn
 full:tf-feedback.itunes.apple.com
 full:time.amazonaws.cn
 full:time.izatcloud.net
