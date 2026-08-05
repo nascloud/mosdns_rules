@@ -111986,6 +111986,8 @@ full:tf-feedback.itunes.apple.com
 full:time.amazonaws.cn
 full:time.izatcloud.net
 full:time.xtracloud.net
+full:tj-pod2-smp-device.apple.com
+full:tj-pod3-smp-device.apple.com
 full:tp.louisvuitton.com
 full:universal-activity-service.itunes.apple.com
 full:uplaypc-s-ubisoft.cdn.ubi.com
