@@ -110693,6 +110693,8 @@ full:se-edge.itunes.apple.com
 full:se2.itunes.apple.com
 full:search.itunes.apple.com
 full:sf-api-token-service.itunes.apple.com
+full:sh-pod1-smp-device.apple.com
+full:sh-pod3-smp-device.apple.com
 full:shell.cdn.office.net
 full:software.download.prss.microsoft.com
 full:sp.itunes.apple.com
