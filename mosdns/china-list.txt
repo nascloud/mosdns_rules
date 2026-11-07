@@ -109868,6 +109868,7 @@ biancheng.net
 bibaodao.com
 blurdev.com
 brighticecream.com
+bseinfo.net
 btghotels.com
 building.fun
 burningvocabulary.com
@@ -109895,7 +109896,6 @@ chuansong.me
 chuansongme.com
 chugou360.com
 chujingapp.com
-chuyu.me
 cilisouou.com
 cloudflareanycast.net
 cloudflareglobal.net
@@ -110007,8 +110007,6 @@ frp-sun.com
 frp-tag.com
 fzaqjy.com
 game234.com
-gameitop.com
-gameloop.com
 gamepp.com
 gangwan.com
 gaojidata.com
@@ -110065,7 +110063,6 @@ ibangbank.com
 ibobscs.com
 icaidao.com
 ifanrx.com
-in.th
 instreet.com
 ipshu.com
 ishijue.com
@@ -110126,13 +110123,11 @@ liuxiaoer.com
 liweijia.com
 lkkbrand.com
 lnlib.net
+luyong.com
 lvcampaign.com
 lvmama.com
 lxjiasu.com
 lzpipi.com
-mahjongai.net
-mahjongcup.com
-mahjongcup.net
 mail4399.com
 mamecn.com
 manbenapi.com
@@ -110187,7 +110182,6 @@ perfectlingo.com
 piaoliang.com
 platform.dell.com
 poweremarket.com
-proximabeta.com
 pwcinema.com
 qc188.com
 qd8.com
@@ -110223,6 +110217,7 @@ scratch5.com
 seclab.online
 sectigochina.com.cdn.cloudflare.net
 seeed.cc
+senseavatar.com
 sf-saas.com
 sfcar.hk
 shang360.com
@@ -110233,6 +110228,7 @@ shelterdome.net
 sheui.com
 shhxzq.com
 shopeesz.com
+shuwen.com
 sifou.com
 simei8.com
 sinopec-usa.com
@@ -110257,14 +110253,13 @@ t00ls.cc
 t00ls.net
 t1y5.com
 taodocs.com
-texasholdemcup.com
-texasholdemcup.net
 tgprocs.net
 th-music.com
 thinkpad.com
 tianshucup.com
 tidb.ai
 tidbcloud.com
+tidesight.com
 tikv.org
 timbrd.com
 tl88.net
@@ -110291,6 +110286,7 @@ ugediao.com
 ugnas.cloud
 unaming.net
 uneedx.com
+upsort.com
 urselect.com
 uslk.net
 uwn.com
@@ -110374,9 +110370,11 @@ youboy.com
 youxigt.com
 yuanqidesk.com
 yunba.io
+yundouxueyuan.com
 yunfancdn.com
 yunqishi.net
 yuzua.com
+yybip.com
 z28j.com
 zdfans.com
 zeekrgroup.com
@@ -110607,6 +110605,7 @@ full:play.itunes.apple.com
 full:play.music.apple.com
 full:podcasts.apple.com
 full:podcasts.itunes.apple.com
+full:radio.itunes.apple.com
 full:refresh-bkg.activation-v2.kaspersky.com
 full:rsm.download.prss.microsoft.com
 full:s00.upd.kaspersky.com
